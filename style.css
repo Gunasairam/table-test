@@ -1,0 +1,25 @@
+  @import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Ubuntu&display=swap');
+*{
+    font-family: ubuntu;
+}
+  table,td,th{
+    border: 3px solid rgb(195, 180, 180);
+    border-collapse: collapse;
+}
+
+td, th{
+    padding: 20px 50px;
+    colo
+}
+.veg{
+    background-color: red;
+    color: white;
+}
+th{
+    background-color: green;
+    color: white;
+}
+.container{
+    text-align: center;
+    padding-bottom: 50px;
+}
